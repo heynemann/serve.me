@@ -1,2 +1,4 @@
 *.pyc
 *.swp
+dist
+serve.me.egg-info
