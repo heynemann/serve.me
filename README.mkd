@@ -12,9 +12,9 @@ Sample URLs:
 Usage
 ---------
 
-To serve in default port 1234: serveme
+To serve in default port 1234: `serveme`
 
-To serve in port 8000: serveme 8000
+To serve in port 8000: `serveme 8000`
 
 serve.me **ALWAYS** serves the current folder.
 
