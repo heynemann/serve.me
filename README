@@ -1,0 +1,24 @@
+Introduction
+-----------------
+
+serve.me serves the files in the current folder and sub-folders as an HTTP server.
+
+Sample URLs:
+
+* http://localhost:1234/my/folder/file.html
+* http://localhost:1234/my/folder/image.jpg
+* http://localhost:1234/my/folder/some.js
+
+Usage
+---------
+
+To serve in default port 1234: serveme
+
+To serve in port 8000: serveme 8000
+
+serve.me **ALWAYS** serves the current folder.
+
+Why?
+--------
+
+I don't like using file:// stuff for quickly testing front-end code (like Jasmine or QUnit code). So it is a lot easier using this. 
